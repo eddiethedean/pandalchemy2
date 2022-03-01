@@ -1,7 +1,7 @@
 ## ![Pandalchemy Logo](https://raw.githubusercontent.com/eddiethedean/redpandas/main/docs/redpandas.svg)
 -----------------
 
-# RedPandas: SQL Table Manipulation Using Pandas
+# Pandalchemy: SQL Table Manipulation Using Pandas
 [![PyPI Latest Release](https://img.shields.io/pypi/v/pandaclehmy2.svg)](https://pypi.org/project/pandalchemy2/)
 
 ## What is it?

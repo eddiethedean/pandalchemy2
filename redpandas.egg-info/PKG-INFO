@@ -1,0 +1,51 @@
+Metadata-Version: 2.1
+Name: redpandas
+Version: 0.0.0
+Summary: Manipulate SQL tables using a Pandas API and SqlAlchemy back end.
+Author: Odos Matthews
+Author-email: odosmatthews@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+## ![RedPandas Logo](https://raw.githubusercontent.com/eddiethedean/redpandas/main/docs/redpandas.svg)
+-----------------
+
+# RedPandas: SQL Table Manipulation Using Pandas
+[![PyPI Latest Release](https://img.shields.io/pypi/v/redpandas.svg)](https://pypi.org/project/redpandas/)
+
+## What is it?
+
+**RedPandas** is a Python package that allows SQL table manipulation using a Pandas DataFrame front end with a SqlAlchemy back end.
+
+## Main Features
+Here are just a few of the things that RedPandas does well:
+
+  - 
+  - 
+  - 
+
+## Where to get it
+The source code is currently hosted on GitHub at:
+https://github.com/eddiethedean/redpandas
+
+```sh
+# PyPI
+pip install redpandas
+```
+
+## Dependencies
+- [pandas - a Python package that provides fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive.](https://pandas.pydata.org/)]
+- [sessionize - ]
+
+
+
+## Example
+```sh
+
+```
+

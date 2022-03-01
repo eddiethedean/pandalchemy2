@@ -1,8 +1,8 @@
 creds.py
 notebooks/
 
-redpandas.egg-info/
-redpandas/__pycache__/
+pandalchemy2.egg-info/
+pandalchemy2/__pycache__/
 dist/
 data/
 build/

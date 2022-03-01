@@ -1,0 +1,7 @@
+README.md
+setup.py
+redpandas.egg-info/PKG-INFO
+redpandas.egg-info/SOURCES.txt
+redpandas.egg-info/dependency_links.txt
+redpandas.egg-info/requires.txt
+redpandas.egg-info/top_level.txt
