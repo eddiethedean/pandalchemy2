@@ -1,0 +1,12 @@
+creds.py
+notebooks/
+
+redpandas.egg-info/
+redpandas/__pycache__/
+dist/
+data/
+build/
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+tests/__pycache__/
